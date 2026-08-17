@@ -1,0 +1,2 @@
+# Replit run configuration - start backend for now
+run = "bash -lc 'cd backend && go run ./cmd/server'"

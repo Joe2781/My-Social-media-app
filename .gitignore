@@ -1,0 +1,6 @@
+# Local database and environment
+socialx_dev.db
+.env
+/node_modules
+/dist
+/.cache
